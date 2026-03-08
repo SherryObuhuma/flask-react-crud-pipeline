@@ -1,6 +1,6 @@
-# 🚀 Flask + React Fullstack App with MongoDB, Docker & Jenkins CI/CD
+# Flask + React Fullstack App with MongoDB, Docker & Jenkins CI/CD
 
-## 📌 Project Overview
+## Project Overview
 This is a **fullstack web application** that demonstrates use of cloud native architecture for modern software development and DevOps practices.  
 
 - **Frontend**: React  
@@ -16,7 +16,7 @@ This is a **fullstack web application** that demonstrates use of cloud native ar
 
 ---
 
-## 🏗️ Getting Started
+## Getting Started
 
 ### 1. Clone Repository
 ```
